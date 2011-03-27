@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomControls", "CustomControls\CustomControls.csproj", "{A31AC47E-8281-4C70-ADDD-9795287A0636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A31AC47E-8281-4C70-ADDD-9795287A0636}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{A31AC47E-8281-4C70-ADDD-9795287A0636}.Debug|iPhone.Build.0 = Debug|iPhone
+		{A31AC47E-8281-4C70-ADDD-9795287A0636}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{A31AC47E-8281-4C70-ADDD-9795287A0636}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{A31AC47E-8281-4C70-ADDD-9795287A0636}.Release|iPhone.ActiveCfg = Release|iPhone
+		{A31AC47E-8281-4C70-ADDD-9795287A0636}.Release|iPhone.Build.0 = Release|iPhone
+		{A31AC47E-8281-4C70-ADDD-9795287A0636}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{A31AC47E-8281-4C70-ADDD-9795287A0636}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = CustomControls\CustomControls.csproj
+	EndGlobalSection
+EndGlobal
