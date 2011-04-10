@@ -3,3 +3,6 @@
 *~.nib
 
 bin/
+
+/CustomControls/CustomControls.pidb
+/CustomControls.userprefs
